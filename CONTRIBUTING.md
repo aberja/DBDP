@@ -1,5 +1,7 @@
 ### Please see the DBDP/Instructions for a full and complete guide to contributing and for formatting.
 
+#### Check out [GitHub's Guide to Contributing to Open Source Projects](https://opensource.guide/how-to-contribute/)
+
 **Instructions for Adding to DBDP: **
 
 If making a contribution to an existing repository:
