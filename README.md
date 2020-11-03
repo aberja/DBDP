@@ -19,10 +19,10 @@ Digital biomarkers currently require extensive domain knowledge and computing sk
 
 ### Instructions
 
-For general help with the DBDP, see our [USER GUIDE](https://github.com/Big-Ideas-Lab/DBDP/wiki/User-Guide).
+For general help with the DBDP, see our [USER GUIDE](https://github.com/DigitalBiomarkerDiscoveryPipeline/DBDP/wiki/USER-GUIDE).
 Please refer to specific DBDP modules for instructions for use. 
 
-The [Digital Biomarker Discovery Resource Guide](https://github.com/Big-Ideas-Lab/DBDP/wiki/Digital-Biomarker-Discovery-Resources) is available now!
+The [Digital Biomarker Discovery Resource Guide](https://github.com/DigitalBiomarkerDiscoveryPipeline/DBDP/wiki/Digital-Biomarker-Discovery-Resources) is available now!
 
 
 
